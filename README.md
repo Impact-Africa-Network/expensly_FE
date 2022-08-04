@@ -1,21 +1,16 @@
-## Project Name & Pitch
+## Expensly App
 
-#### Example:
-
-TweetWorld 
-
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+An expense management app for Project budgeting.
 
 ## Project Status
-(only necessary if incomplete)
 
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+This project is currently in development. 
 
 ## Project Screen Shot(s)
 
-#### Example:   
+#### User flows: 
+
+![user roadmap](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 [ PRETEND SCREEN SHOT IS HERE ]
 
