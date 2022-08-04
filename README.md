@@ -10,11 +10,11 @@ This project is currently in development.
 
 #### User flows: 
 
-![user roadmap](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![user roadmap](https://github.com/Impact-Africa-Network/expensly_FE/blob/main/Images/expensly_user_flow.png)
 
-[ PRETEND SCREEN SHOT IS HERE ]
+#### User flows: 
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![user roadmap](https://github.com/Impact-Africa-Network/expensly_FE/blob/main/Images/expensly_user_flow.png)
 
 ## Installation and Setup Instructions
 
