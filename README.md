@@ -8,9 +8,9 @@ This project is currently in development.
 
 ## Project Screen Shot(s)
 
-#### User flows: 
+#### User overview: 
 
-![user roadmap](https://github.com/Impact-Africa-Network/expensly_FE/blob/main/Images/expensly_user_flow.png)
+![user Overview](https://github.com/Impact-Africa-Network/expensly_FE/blob/main/Images/Overview.png)
 
 #### User flows: 
 
