@@ -22,18 +22,17 @@ This project is currently in development.
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
-Installation:
+## Steps to setup the code locally
+1. clone this repository `git clone https://github.com/Impact-Africa-Network/expensly_FE.git`
+2. `cd expensly_app` directory
+3. use either `yarn install` or `npm install` to install the dependecies.
+4. run the command `yarn start` or `npm start` to run react application
+5. navigate to the browser at `localhost:3000`
 
-`npm install`  
 
-To Run Test Suite:  
+### Authors
+1. Kefa
+2. Kabochi
+3. Innocent
 
-`npm test`  
-
-To Start Server:
-
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
+## Hat tip to everyone involved.
