@@ -16,6 +16,10 @@ This project is currently in development.
 
 ![user roadmap](https://github.com/Impact-Africa-Network/expensly_FE/blob/main/Images/expensly_user_flow.png)
 
+#### Frontend High level design: 
+
+![user roadmap](https://github.com/Impact-Africa-Network/expensly_FE/blob/main/Images/Expensly_FE.png)
+
 ## Installation and Setup Instructions
 
 #### Example:  
